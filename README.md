@@ -1,2 +1,2 @@
-# 2018-Internet-of-Things-Crash-Course
+# internet-of-things-crash-course
 Practice With Arduino
